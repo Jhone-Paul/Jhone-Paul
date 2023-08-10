@@ -14,8 +14,3 @@ About:
 <a href="https://github.com/Jhone-Paul/Jhone-Paul">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jhone-Paul&show_icons=true&theme=github_dark" alt="John's github stats" />
 </a>
-
-
-<a href="https://github.com/Jhone-Paul/SimulationTest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhone-Paul&repo=SimulationTest&theme=github_dark" />
-</a>
