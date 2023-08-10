@@ -7,7 +7,6 @@ About:
 - 🎸 Outside of university and coding I like to play guitar, rock climb, and trail run.
 
 ## &#x1f4c8; GitHub Stats
-
 <a href="https://github.com/Jhone-Paul/Jhone-Paul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhone-Paul&langs_count=3&theme=github_dark" />
 </a>
