@@ -13,8 +13,3 @@ About:
 <a href="https://github.com/Jhone-Paul/Jhone-Paul">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jhone-Paul&show_icons=true&theme=github_dark" alt="John's github stats" />
 </a>
-picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
