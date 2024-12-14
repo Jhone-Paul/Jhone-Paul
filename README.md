@@ -1,8 +1,8 @@
 # About:
 - 🎓 I’m currently a student at Stellenbosch University, double majoring in Computer Science and Physics.
 - 🔭 I code in Java, Javascript, C and Python.
-- 🌱 I’m currently learning Rust.
-- 🎸 Outside of university and coding I like to play bass, rock climb, and trail run.
+- 🌱 I’m currently learning Go.
+- 🎸 Outside of university and coding I like to play bass, read, and trail run.
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
