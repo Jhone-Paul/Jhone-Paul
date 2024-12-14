@@ -12,6 +12,9 @@
 ![C](https://img.shields.io/badge/-093bba?style=for-the-badge&logo=c&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-ba3809?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
+![neo4j](https://img.shields.io/badge/neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Jhone-Paul/Jhone-Paul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhone-Paul&langs_count=3&theme=github_dark" />
