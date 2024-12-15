@@ -1,5 +1,6 @@
 # About:
-- 🎓 I’m currently a student at Stellenbosch University, double majoring in Computer Science and Physics.
+- 🎓 I’m currently a student at Stellenbosch University, doing my Honours in Computer Science.
+- 📜 I graduated in the class of 2024 from Stellenbosch University with a B.Sc in Physics
 - 🔭 I code in Java, Javascript, C and Python.
 - 🌱 I’m currently learning Go.
 - 🎸 Outside of university and coding I like to play bass, read, and trail run.
