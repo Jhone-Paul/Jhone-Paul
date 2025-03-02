@@ -2,7 +2,7 @@
 - 🎓 I’m currently a student at Stellenbosch University, doing my Honours in Computer Science.
 - 📜 I graduated in the class of 2024 from Stellenbosch University with a B.Sc in Physics
 - 🔭 I code in Java, Javascript, C and Python.
-- 🌱 I’m currently learning Go and Haskel.
+- 🌱 I’m currently learning Go and Haskell.
 - 🎸 Outside of university and coding I like to play bass, read, and trail run.
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
