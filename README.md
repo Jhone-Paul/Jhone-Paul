@@ -4,7 +4,7 @@
 
 ### 🎓 Computer Science Honours Student | 🔬 Physics Graduate | 💻 Software Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Radio+Interferometry+Researcher;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Radio+Interferometry+Researcher;Dabbling-In-Game-Dev;Home+Lab+Addict" alt="Typing SVG" />
 
 </div>
 
@@ -31,7 +31,7 @@
 <td width="50%">
 
 ### 🤖 Machine Learning
-I'm fascinated by the power of ML algorithms to extract patterns from complex datasets. My focus includes:
+I'm fascinated by the power of ML algorithms to extract patterns from datasets. My interests include:
 - Deep learning architectures
 - Signal processing with neural networks
 
