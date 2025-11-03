@@ -4,7 +4,7 @@
 
 ### 🎓 Computer Science Honours Student | 🔬 Physics Graduate | 💻 Software Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Radio+Interferometry+Researcher;Dabbling+Game+Dev;Home+Lab+Addict" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Radio+Interferometry+Researcher;Aspiring+Game+Dev;Home+Lab+Addict" alt="Typing SVG" />
 
 </div>
 
