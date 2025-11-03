@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm John Powell!
+# Hi, I'm John Powell!
 
 ### 🎓 Computer Science Honours Student | 🔬 Physics Graduate | 💻 Software Developer
 
@@ -41,7 +41,7 @@ I'm fascinated by the power of ML algorithms to extract patterns from datasets. 
 ### 📡 Radio Interferometry
 Coming from a physics background, I'm passionate about:
 - Processing massive radio telescope datasets
-- ML-enhanced image reconstruction
+- Deep Learning applied to RFI detection
 - Interferometric signal analysis
 - Bridging astronomy and computational science
 
