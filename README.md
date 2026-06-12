@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 
-- 🎓 **Current:** Honours in Computer Science @ Stellenbosch University
+- 🎓 **Current:** Masters Student in Physics @ Stellenbosch University
 - 📜 **Graduate:** B.Sc in Physics (Class of 2024) @ Stellenbosch University
 - 🔭 **Languages:** Java, C, Python
-- 🌱 **Learning:** Go & Haskell
+- 🌱 **Learning:** Rust & Haskell
 - 🎸 **Hobbies:** Bass Guitar, Reading, Trail Running
 
 <br clear="right"/>
