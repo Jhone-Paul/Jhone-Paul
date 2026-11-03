@@ -51,12 +51,28 @@ jobs:
       # -----------------------------------
       # 3. Contribution streak
       # -----------------------------------
+      
       - name: Generate contribution streak
         uses: zients/github-readme-streak-stats@v2
         with:
-          options: user=Jhone-Paul&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&disable_animations=true
+          options: >-
+            user=Jhone-Paul
+            &theme=dark
+            &background=0D1117
+            &border=0D1117
+            &hide_border=true
+            &stroke=30363D
+            &ring=58A6FF
+            &fire=FF7B72
+            &currStreakNum=FFFFFF
+            &sideNums=FFFFFF
+            &currStreakLabel=58A6FF
+            &sideLabels=C9D1D9
+            &dates=8B949E
+            &disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
 
       # -----------------------------------
       # 4. Commit activity graph
